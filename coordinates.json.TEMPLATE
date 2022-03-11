@@ -1,0 +1,7 @@
+{
+  "host": "192.168.0.1",
+  "port": 1521,
+  "dbname": "ORCL",
+  "username": "system",
+  "pwd": "changeme"
+}
